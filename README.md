@@ -7,3 +7,5 @@ This repository is for SOC Assingment
 - Customers can update password and can change the delivery address.
 - Data stored in a MySQL database
 - Friendly user interface with JavaFX
+
+*Note The Foody folder is Food Ordering App and FoodyOrder folder is order retrieve App code*
